@@ -1,0 +1,6 @@
+#map{height:500px; width:500px; background-color#FFF; position:relative; border:5px solid #006; margin:0 auto}
+#start{height:150px; width:150px; border-radius:75px; background-color:#0F0; position:absolute; top:10px; left:10px}
+#start .start0{padding-top:45px; color:#6FF; text-align:center; width:150px; height:100px; font-size:50px; font-weight:900}
+#start:hover{background-color:#99F}
+#point{height:150px; width:150px; border-radius:75px; background-color:#0F0; position:absolute; top:200px; left:10px}
+#point #point0{padding-top:45px; color:#6FF; text-align:center; width:150px; height:100px; font-size:50px; font-weight:900}
